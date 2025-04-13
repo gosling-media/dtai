@@ -5,7 +5,7 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'My dddDocs',
+			title: 'creativesurvivalkit.com',
 			social: {
 				github: 'https://github.com/withastro/starlight',
 			},
